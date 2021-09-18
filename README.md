@@ -6,7 +6,7 @@ Basic one-file **C++** game for **Windows**.
 Using **compiler** (g++ in the example):
 ```sh
 cd Fall
-g++ main.cpp
+g++ -o fall.exe main.cpp
 ```
 Using **Makefile**:
 ```sh
