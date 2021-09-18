@@ -3,8 +3,13 @@
 ### About
 Basic one-file **C++** game for **Windows**.
 ### Building project
-Use compiler and type:
+Using **compiler** (g++ in the example):
 ```sh
 cd Fall
 g++ main.cpp
+```
+Using **Makefile**:
+```sh
+cd Fall
+make
 ```
