@@ -1,2 +1,2 @@
 # Fall
-C++ ASCII game for Windows.
+Basic one-file C++ game for Windows. 
